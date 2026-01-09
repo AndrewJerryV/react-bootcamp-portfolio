@@ -34,20 +34,3 @@ portfolio/
 ├── projects.json      # Project data
 └── package.json
 ```
-
-## 🏃 Running Locally
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-## 📬 Contact
-
-Feel free to reach out through the contact form on the website or connect with me on GitHub!
