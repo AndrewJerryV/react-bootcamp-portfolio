@@ -18,7 +18,7 @@ A modern, responsive portfolio website showcasing my projects, skills, and profe
 - Responsive design that works on all devices
 - Smooth scroll animations and hover effects
 - Dynamic project cards loaded from JSON
-- Contact form with Web3Forms integration
+- Contact form with Gmail integration
 - Dark/light mode support
 
 ## 📁 Project Structure
