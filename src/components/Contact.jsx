@@ -15,43 +15,20 @@ function Contact() {
         });
     };
 
-    const handleSubmit = async (e) => {
+    const handleSubmit = (e) => {
         e.preventDefault();
-        setStatus('sending');
 
-        try {
-            const response = await fetch('https://api.web3forms.com/submit', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({
-                    access_key: 'YOUR_ACCESS_KEY_HERE', // User needs to replace this
-                    name: formData.name,
-                    email: formData.email,
-                    message: formData.message,
-                    subject: `Portfolio Contact from ${formData.name}`,
-                }),
-            });
+        const to = 'andrewjerryv@gmail.com';
+        const subject = encodeURIComponent(`Portfolio Contact from ${formData.name}`);
+        const body = encodeURIComponent(`${formData.message}\n\nFrom: ${formData.name}\nEmail: ${formData.email}`);
 
-            const result = await response.json();
+        // Open Gmail compose in a new tab
+        const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${to}&su=${subject}&body=${body}`;
+        window.open(gmailUrl, '_blank');
 
-            if (result.success) {
-                setStatus('success');
-                setFormData({ name: '', email: '', message: '' });
-                setTimeout(() => setStatus('idle'), 5000);
-            } else {
-                // Fallback to mailto if Web3Forms fails
-                const mailtoLink = `mailto:andrewjerryv@gmail.com?subject=Portfolio Contact from ${formData.name}&body=${encodeURIComponent(formData.message)}%0A%0AFrom: ${formData.email}`;
-                window.location.href = mailtoLink;
-                setStatus('idle');
-            }
-        } catch (error) {
-            // Fallback to mailto on error
-            const mailtoLink = `mailto:andrewjerryv@gmail.com?subject=Portfolio Contact from ${formData.name}&body=${encodeURIComponent(formData.message)}%0A%0AFrom: ${formData.email}`;
-            window.location.href = mailtoLink;
-            setStatus('idle');
-        }
+        setStatus('success');
+        setFormData({ name: '', email: '', message: '' });
+        setTimeout(() => setStatus('idle'), 5000);
     };
 
     return (
