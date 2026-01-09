@@ -57,7 +57,7 @@ function Contact() {
                                 </div>
                                 <div className="contact-text">
                                     <strong>Phone</strong>
-                                    <p>+91 9778756878</p>
+                                    <p>+91 9778756877</p>
                                 </div>
                             </div>
 
@@ -83,7 +83,7 @@ function Contact() {
                                 </div>
                                 <div className="contact-text">
                                     <strong>Location</strong>
-                                    <p>India</p>
+                                    <p>Kerala, India</p>
                                 </div>
                             </div>
                         </div>
