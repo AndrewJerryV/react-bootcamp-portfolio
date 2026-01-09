@@ -26,11 +26,16 @@ A modern, responsive portfolio website showcasing my projects, skills, and profe
 ```
 portfolio/
 ├── public/
-│   └── projects/      # Project images
+│   └── projects/               # Project images
 ├── src/
-│   ├── components/    # React components
-│   ├── App.jsx        # Main app component
-│   └── index.css      # Global styles
-├── projects.json      # Project data
-└── package.json
+│   ├── components/             # React components
+│   ├── App.jsx                 # Main app component
+│   ├── main.jsx                # Entry point
+│   └── index.css               # Global styles
+├── index.html                  # HTML entry point
+├── projects.json               # Projects data
+├── skills.json                 # Skills data
+├── Andrew Jerry V - Resume.pdf # Resume file
+├── vite.config.js              # Vite configuration
+└── package.json                # Dependencies
 ```
