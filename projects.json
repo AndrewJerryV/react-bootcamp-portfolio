@@ -1,0 +1,167 @@
+[
+  {
+    "title": "ChatUI Figma Plugin",
+    "image": "src/projects/10.png",
+    "tech": "Figma",
+    "description": "An AI-assisted Figma plugin that generates and updates UI elements from natural-language instructions in real time.",
+    "tags": [
+      "Figma",
+      "Gemini API",
+      "OpenAI API",
+      "Plugin"
+    ],
+    "live": "https://www.figma.com/community/plugin/1515377905049387762/chatui",
+    "code": "#",
+    "status": "complete"
+  },
+  {
+    "title": "Resume Analyzer & Builder",
+    "image": "src/projects/4.png",
+    "tech": "Gemini API",
+    "description": "An AI-powered tool that analyzes resumes for ATS compliance and helps create optimized, professional resumes.",
+    "tags": [
+      "Gemini API",
+      "Tailwind CSS"
+    ],
+    "live": "https://andrewjerryv.github.io/Hack-Net/homepage.html",
+    "code": "https://github.com/AndrewJerryV/Hack-Net",
+    "status": "complete"
+  },
+  {
+    "title": "Peer Chat",
+    "image": "src/projects/1.png",
+    "tech": "WebRTC & Socket.io",
+    "description": "A peer-to-peer chat application enabling direct browser-to-browser communication with signaling via Socket.io.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "WebRTC",
+      "Socket.io"
+    ],
+    "live": "https://andrewjerryv.github.io/FOSS-Hackathon/?room=9ttlxn",
+    "code": "https://github.com/AndrewJerryV/FOSS-Hackathon",
+    "status": "complete"
+  },
+  {
+    "title": "EmpathAI",
+    "image": "src/projects/8.png",
+    "tech": "Python & Gemini API",
+    "description": "An AI therapy assistant for students that uses sentiment analysis to provide empathetic, context-aware responses.",
+    "tags": [
+      "Python",
+      "Gemini API",
+      "Sentiment Analysis",
+      "AI"
+    ],
+    "live": "https://www.youtube.com/watch?v=VC4u1-ygn4w",
+    "code": "#",
+    "status": "complete"
+  },
+  {
+    "title": "Agile Project Dashboard",
+    "image": "src/projects/2.png",
+    "tech": "Flask",
+    "description": "A task and sprint management tool for agile teams with project tracking, collaboration, and progress visualization.",
+    "tags": [
+      "Python",
+      "Flask",
+      "SQLite",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "live": "NULL",
+    "code": "https://github.com/AndrewJerryV/Infosys-Springboard",
+    "status": "complete"
+  },
+  {
+    "title": "Digit Recognition Trainer",
+    "image": "src/projects/3.png",
+    "tech": "TensorFlow",
+    "description": "An interactive web tool to train and test handwritten digit recognition models using the MNIST dataset.",
+    "tags": [
+      "Python",
+      "TensorFlow",
+      "Jupyter Notebook",
+      "Machine Learning"
+    ],
+    "live": "#",
+    "code": "#",
+    "status": "complete"
+  },
+  {
+    "title": "Story Weaver",
+    "image": "src/projects/9.png",
+    "tech": "Python & Gemini API",
+    "description": "A collaborative storytelling platform enabling real-time, dynamic story creation with the Google Gemini API.",
+    "tags": [
+      "Python",
+      "Gemini API",
+      "Collaborative Tools"
+    ],
+    "live": "https://www.youtube.com/watch?v=k2FEq_RyGnA",
+    "code": "#",
+    "status": "complete"
+  },
+  {
+    "title": "Linux From Scratch (LFS/BLFS)",
+    "image": "src/projects/11.png",
+    "tech": "Linux Kernel & Shell",
+    "description": "Building a custom Linux system entirely from source code, including Beyond Linux From Scratch (BLFS) extensions.",
+    "tags": [
+      "Linux",
+      "Shell Scripting",
+      "System Administration",
+      "Kernel"
+    ],
+    "live": "#",
+    "code": "#",
+    "status": "ongoing"
+  },
+  {
+    "title": "KSRTC Bus Management System",
+    "image": "src/projects/5.png",
+    "tech": "MySQL",
+    "description": "A database-driven system for managing bus routes, schedules, reservations, and passenger details for KSRTC.",
+    "tags": [
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "live": "#",
+    "code": "#",
+    "status": "ongoing"
+  },
+  {
+    "title": "Seating Chart App",
+    "image": "src/projects/6.png",
+    "tech": "HTML, CSS & JavaScript",
+    "description": "A dynamic seating arrangement tool for events and classrooms, allowing drag-and-drop seat assignments.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "DOM Manipulation"
+    ],
+    "live": "#",
+    "code": "#",
+    "status": "ongoing"
+  },
+  {
+    "title": "Screen Recorder Pro",
+    "image": "src/projects/13.png",
+    "tech": "Chrome Extension",
+    "description": "A free Chrome extension for simultaneous screen and camera capture with no watermarks or time limits.",
+    "tags": [
+      "Chrome Extension",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "live": "https://chromewebstore.google.com/detail/screen-recorder-pro/dghhdeebbaiooglpaglgabdcpibnckjd",
+    "code": "#",
+    "status": "complete"
+  }
+]

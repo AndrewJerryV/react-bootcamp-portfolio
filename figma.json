@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Fitness Coaching App",
+    "type": "App",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+    "figmaURL": "https://embed.figma.com/design/pM7gY9o7gjR3pFRR84QPDh/Fitness-Coaching-App?embed-host=share",
+    "description": "A mobile app design for personal fitness coaching and tracking."
+  },
+  {
+    "title": "Acadario - Learning Platform Website",
+    "type": "Web",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+    "figmaURL": "https://embed.figma.com/design/r5lfgiRalxqf3GoGllPrty/Acadario---Learning-Platform--website-?embed-host=share",
+    "description": "This design focuses on creating a modern and user-friendly portfolio website, ideal for showcasing educational content and services."
+  },
+  {
+    "title": "SproutThread - Children's Clothes Re-sale",
+    "type": "App",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+    "figmaURL": "https://embed.figma.com/design/odJnFG7Dy6gePEqi8lES0Q/SproutThread---Children-s-Clothes-Re-sale?embed-host=share",
+    "description": "This design offers an intuitive admin dashboard for managing e-commerce operations, specifically tailored for children's clothing resale platforms."
+  }
+]
