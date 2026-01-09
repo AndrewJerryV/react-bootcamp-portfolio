@@ -1,7 +1,7 @@
 [
   {
     "title": "ChatUI Figma Plugin",
-    "image": "src/projects/10.png",
+    "image": "/projects/10.png",
     "tech": "Figma",
     "description": "An AI-assisted Figma plugin that generates and updates UI elements from natural-language instructions in real time.",
     "tags": [
@@ -16,7 +16,7 @@
   },
   {
     "title": "Resume Analyzer & Builder",
-    "image": "src/projects/4.png",
+    "image": "/projects/4.png",
     "tech": "Gemini API",
     "description": "An AI-powered tool that analyzes resumes for ATS compliance and helps create optimized, professional resumes.",
     "tags": [
@@ -29,7 +29,7 @@
   },
   {
     "title": "Peer Chat",
-    "image": "src/projects/1.png",
+    "image": "/projects/1.png",
     "tech": "WebRTC & Socket.io",
     "description": "A peer-to-peer chat application enabling direct browser-to-browser communication with signaling via Socket.io.",
     "tags": [
@@ -45,7 +45,7 @@
   },
   {
     "title": "EmpathAI",
-    "image": "src/projects/8.png",
+    "image": "/projects/8.png",
     "tech": "Python & Gemini API",
     "description": "An AI therapy assistant for students that uses sentiment analysis to provide empathetic, context-aware responses.",
     "tags": [
@@ -60,7 +60,7 @@
   },
   {
     "title": "Agile Project Dashboard",
-    "image": "src/projects/2.png",
+    "image": "/projects/2.png",
     "tech": "Flask",
     "description": "A task and sprint management tool for agile teams with project tracking, collaboration, and progress visualization.",
     "tags": [
@@ -77,7 +77,7 @@
   },
   {
     "title": "Digit Recognition Trainer",
-    "image": "src/projects/3.png",
+    "image": "/projects/3.png",
     "tech": "TensorFlow",
     "description": "An interactive web tool to train and test handwritten digit recognition models using the MNIST dataset.",
     "tags": [
@@ -92,7 +92,7 @@
   },
   {
     "title": "Story Weaver",
-    "image": "src/projects/9.png",
+    "image": "/projects/9.png",
     "tech": "Python & Gemini API",
     "description": "A collaborative storytelling platform enabling real-time, dynamic story creation with the Google Gemini API.",
     "tags": [
@@ -106,7 +106,7 @@
   },
   {
     "title": "Linux From Scratch (LFS/BLFS)",
-    "image": "src/projects/11.png",
+    "image": "/projects/11.png",
     "tech": "Linux Kernel & Shell",
     "description": "Building a custom Linux system entirely from source code, including Beyond Linux From Scratch (BLFS) extensions.",
     "tags": [
@@ -121,7 +121,7 @@
   },
   {
     "title": "KSRTC Bus Management System",
-    "image": "src/projects/5.png",
+    "image": "/projects/5.png",
     "tech": "MySQL",
     "description": "A database-driven system for managing bus routes, schedules, reservations, and passenger details for KSRTC.",
     "tags": [
@@ -136,7 +136,7 @@
   },
   {
     "title": "Seating Chart App",
-    "image": "src/projects/6.png",
+    "image": "/projects/6.png",
     "tech": "HTML, CSS & JavaScript",
     "description": "A dynamic seating arrangement tool for events and classrooms, allowing drag-and-drop seat assignments.",
     "tags": [
@@ -151,7 +151,7 @@
   },
   {
     "title": "Screen Recorder Pro",
-    "image": "src/projects/13.png",
+    "image": "/projects/13.png",
     "tech": "Chrome Extension",
     "description": "A free Chrome extension for simultaneous screen and camera capture with no watermarks or time limits.",
     "tags": [
